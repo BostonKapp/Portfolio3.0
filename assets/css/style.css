@@ -33,6 +33,11 @@ page-footer {
 } */
 
 /* From the homework */
+.contact {
+  text-align: center;
+  bottom: 700px;
+}
+
 .github {
   text-align: center;
   bottom: 20px;
